@@ -3,14 +3,13 @@
 	<h3>Automation QA Engineer from Moscow</h3>
 </div>
 <a href="https://www.instagram.com/doniyornos/">
-  <img align="left" alt="Chev's Instagram" width="30px" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/instagram.png" />
+  <img align="left" alt="Chev's Instagram" width="30px" src="logo/Instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/artur-gabdrakhmanov-663698121/">
   <img align="left" alt="Chev's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://t.me/ChevCh">
-  <img align="left" alt="Chev's Telegram" width="30px" 
-src="https://github.com/ChevChelioss/ChevChelioss/blob/main/tg.png" />
+  <img align="left" alt="Chev's Telegram" width="30px" src="logo/tg.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Artur-Gabdrakhmanov.Artur-Gabdrakhmanov)
