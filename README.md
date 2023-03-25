@@ -26,18 +26,18 @@ Greetings to everyone who shares my passion for programming! I am a novice progr
 
 **languages and tools:** 
 
-<code><img height="23" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/python.png"></code>
-<code><img height="23" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/pytest.png"></code>
-<code><img height="23" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/pycharm.png"></code>
-<code><img height="23" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/selene.png"></code>
-<code><img height="23" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/docker.png"></code>
-<code><img height="23" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/allure_testops.png"></code>
-<code><img height="23" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/allure_report.png"></code>
-<code><img height="23" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/jenkins.png"></code>
-<code><img height="23" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/android_studio.png"></code>
-<code><img height="23" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/selenium.png"></code>
-<code><img height="23" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/browserstack.png"></code>
-<code><img height="23" src="https://github.com/ChevChelioss/ChevChelioss/blob/main/logo/jira.png"></code>
+<code><img height="23" src="logo/python.png"></code>
+<code><img height="23" src="logo/pytest.png"></code>
+<code><img height="23" src="logo/pycharm.png"></code>
+<code><img height="23" src="logo/selene.png"></code>
+<code><img height="23" src="logo/docker.png"></code>
+<code><img height="23" src="logo/allure_testops.png"></code>
+<code><img height="23" src="logo/allure_report.png"></code>
+<code><img height="23" src="logo/jenkins.png"></code>
+<code><img height="23" src="logo/android_studio.png"></code>
+<code><img height="23" src="logo/selenium.png"></code>
+<code><img height="23" src="logo/browserstack.png"></code>
+<code><img height="23" src="logo/jira.png"></code>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40" /> About Me:
 - 🌱 I continue to study Python
