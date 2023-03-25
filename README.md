@@ -1,6 +1,6 @@
 <div id="header" align="left">
 	<h1>Hi there, I'm Arturt</h1>
-	<h3>Automation QA Engineer from Moscow</h3>
+	<h3>Automation QA Engineer</h3>
 </div>
 <a href="https://www.instagram.com/doniyornos/">
   <img align="left" alt="Chev's Instagram" width="30px" src="logo/Instagram.png" />
