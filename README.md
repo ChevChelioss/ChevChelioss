@@ -26,18 +26,26 @@ Greetings to everyone who shares my passion for programming! I am a novice progr
 
 **languages and tools:** 
 
+<code><img height="23" src="logo/allure_testops.png"></code>
+<code><img height="23" src="logo/allure_report.png"></code>
+<code><img height="23" src="logo/android_studio.png"></code>
+<code><img height="23" src="logo/appium.png"></code>
+<code><img height="23" src="logo/browserstack.png"></code>
+<code><img height="23" src="logo/confluence.png"></code>
+<code><img height="23" src="logo/docker.png"></code>
+<code><img height="23" src="logo/github.png"></code>
+<code><img height="23" src="logo/jenkins.png"></code>
+<code><img height="23" src="logo/jira.png"></code>
 <code><img height="23" src="logo/python.png"></code>
 <code><img height="23" src="logo/pytest.png"></code>
 <code><img height="23" src="logo/pycharm.png"></code>
+<code><img height="23" src="logo/postman.png"></code>
+<code><img height="23" src="logo/requests.png"></code>
 <code><img height="23" src="logo/selene.png"></code>
-<code><img height="23" src="logo/docker.png"></code>
-<code><img height="23" src="logo/allure_testops.png"></code>
-<code><img height="23" src="logo/allure_report.png"></code>
-<code><img height="23" src="logo/jenkins.png"></code>
-<code><img height="23" src="logo/android_studio.png"></code>
+<code><img height="23" src="logo/selenoid.png"></code>
 <code><img height="23" src="logo/selenium.png"></code>
-<code><img height="23" src="logo/browserstack.png"></code>
-<code><img height="23" src="logo/jira.png"></code>
+
+
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40" /> About Me:
 - 🌱 I continue to study Python
