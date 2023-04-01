@@ -44,11 +44,16 @@ Greetings to everyone who shares my passion for programming! I am a novice progr
 - 📝 I write autotests in Python
 - 🌍 I'm learning English
 
-📈 my github stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Artur-Gabdrakhmanov&theme=city_lights)
+&#8287;&#8287;&#8287;&#8287;&#8287;
+## :bar_chart:my github stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChevChelioss&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChevChelioss&theme=tokyonight) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChevChelioss&theme=tokyonight)
 
-## Дипломные проекты:
-* <b>[API авто тесты](https://github.com/ChevChelioss/API)</b>
-* <b>[UI авто тесты](https://github.com/ChevChelioss/UI_testing)</b>
-* <b>[Mobile авто тесты](https://github.com/ChevChelioss/Mobile)</b>
+## :floppy_disk:Projects
+
+## <img height="30" title="GitHub" src="logo/github.png"> [UI autotests](https://github.com/ChevChelioss/UI_testing)
+## <img height="30" title="GitHub" src="logo/github.png"> [API autotests](https://github.com/ChevChelioss/API)
+## <img height="30" title="GitHub" src="logo/github.png"> [Mobile autotests](https://github.com/ChevChelioss/Mobile)
+
