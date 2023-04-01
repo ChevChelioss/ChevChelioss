@@ -19,7 +19,7 @@
 Greetings to everyone who shares my passion for programming! I am a novice programmer who strives to achieve more in this field. I am ready to learn from those who have already passed this path and apply my knowledge to create new and amazing things. I believe that by working together we can achieve great results and make an important contribution to technological progress. Let's build the future of programming together!
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 💼 ready to cooperate, [email](mailto:doniyornos@gmail.com)
 - 💬 open to communication, [telegram](https://t.me/ChevCh)
