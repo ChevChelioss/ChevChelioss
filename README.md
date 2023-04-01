@@ -47,3 +47,8 @@ Greetings to everyone who shares my passion for programming! I am a novice progr
 📈 my github stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Artur-Gabdrakhmanov&theme=city_lights)
+
+## Дипломные проекты:
+* <b>[API авто тесты](https://github.com/ChevChelioss/API)</b>
+* <b>[UI авто тесты](https://github.com/ChevChelioss/UI_testing)</b>
+* <b>[Mobile авто тесты](https://github.com/ChevChelioss/Mobile)</b>
